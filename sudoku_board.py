@@ -43,4 +43,5 @@ sudoku_board_4 = [[9,1,3,8,5,2,7,6,4],
 
 
 
-sudoku_board_list = [sudoku_board_1]
+
+sudoku_board_list = [sudoku_board_1,sudoku_board_2,sudoku_board_3,sudoku_board_4]
